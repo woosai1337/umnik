@@ -1,4 +1,4 @@
-const CACHE = 'umnik-v2';
+const CACHE = 'umnik-v3';
 const ASSETS = [
   './',
   'index.html',
