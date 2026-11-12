@@ -1,0 +1,23 @@
+{
+  "name": "Умник — умный калькулятор",
+  "short_name": "Умник",
+  "description": "Точный калькулятор с дробями, степенями и корнями, таблица умножения и игры.",
+  "lang": "ru",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#050916",
+  "theme_color": "#050916",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Таблица умножения", "short_name": "Таблица", "url": "./#table" },
+    { "name": "Игры", "short_name": "Игры", "url": "./#games" },
+    { "name": "Стиль", "short_name": "Стиль", "url": "./#style" }
+  ]
+}
